@@ -2,7 +2,7 @@
  * File Name : RFID.pde
  * Creator : Dr.Leong (WWW.B2CQSHOP.COM)
  * Create Date: 2011.09.19
- * Modified by : Kevin "kevinkesslerit" Kessler
+ * Modified by : Kevin "kayseekay" Kessler
  * Modify Date: 2020.07.26
  * Chinese comments translated using Google Translate by
  * Description : Mifare1 -> find cards - > Anti-collision - > Select Card - > reader interface
